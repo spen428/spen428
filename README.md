@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm in the process of migrating my work from Bitbucket to Github. Sorry that it's a bit empty here at the moment!
 
-- 🔭 I’m currently working on build pipelines for all of my projects
+- 🔭 I’m currently setting up TeamCity build pipelines on my home server
 - 🌱 I’m currently learning Vue.js
+- 💙 I love Kotlin and Linux
 - ✈️ I’m looking to relocate to Saitama, Japan 🇯🇵
 
 <!--
