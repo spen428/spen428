@@ -26,8 +26,6 @@ _I'm in the process of migrating my work from Bitbucket to GitHub. As I slowly c
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=Portainer&logoColor=white)
 
-✈️ I’m looking to relocate to Saitama, Japan 🇯🇵
-
 ## At a glance
 
 | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spen428&theme=transparent&layout=compact&langs_count=8) | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=spen428&show_icons=true&theme=transparent) |
